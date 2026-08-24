@@ -1,16 +1,31 @@
-## Hi there 👋
+<br/>
 
-<!--
-**WhatTheHJ/WhatTheHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Environment**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<br/>
+
+### 📫 Contact & Links
+
+- 📧 **Email:** dev.nohhj@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hyeonju-noh-097574400/
