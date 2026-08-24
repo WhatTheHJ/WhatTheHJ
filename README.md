@@ -24,7 +24,7 @@
 
 <br/>
 
-#### 📫 Contact & Links
+#### Contact & Links
 
-- 📧 **Email:** dev.nohhj@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/hyeonju-noh-097574400/
+- **Email:** dev.nohhj@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/hyeonju-noh-097574400/
