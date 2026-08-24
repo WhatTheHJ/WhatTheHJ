@@ -1,7 +1,4 @@
 <br/>
-
-### 🛠 Tech Stack
-
 **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -20,7 +17,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhatTheHJ&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <br/>
