@@ -16,7 +16,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+#### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WhatTheHJ&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -24,7 +24,7 @@
 
 <br/>
 
-### 📫 Contact & Links
+#### 📫 Contact & Links
 
 - 📧 **Email:** dev.nohhj@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/hyeonju-noh-097574400/
